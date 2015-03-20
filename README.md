@@ -1,5 +1,5 @@
 # PHP-GET-POST-Method
 PHP GET and POST Method Example
 
-# Credit
+## Credit
 * Nyekrip - Web Tutorial Indonesia http://www.nyekrip.com
